@@ -127,7 +127,7 @@ class _SatrancMainState extends State<SatrancMain> {
           duration: satrancController.sure,
           isReverse: true,
           fillColor: Theme.of(context).primaryColor,
-          color: Colors.white,
+          color: Colors.grey.shade300,
           strokeWidth: 15,
           onComplete: () {
             if(satrancController.sureli){
@@ -157,7 +157,7 @@ class _SatrancMainState extends State<SatrancMain> {
           duration: satrancController.sure,
           isReverse: true,
           fillColor: Theme.of(context).primaryColor,
-          color: Colors.white,
+          color: Colors.grey.shade300,
           strokeWidth: 15,
           onComplete: () {
             if(satrancController.sureli){
