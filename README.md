@@ -1,6 +1,8 @@
 # flutter_chess
 
-Chess Application
+Chess Application - Satranç Uygulaması
+Getx For State Management
+
 
 ## Getting Started
 
